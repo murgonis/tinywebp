@@ -29,8 +29,8 @@ function How() {
         <p className="text-sm mb-4">Updated on: 12th February 2025</p>
 
         <p className="mb-4">
-          Welcome to TinyWebP! This tool allows you to easily compress images directly from your browser.
-          Here's how to use it:
+        Laipni lūdzam TinyWebP! Šis rīks ļauj jums viegli saspiest attēlus tieši no jūsu pārlūkprogrammas.
+Lūk, kā to izmantot:
         </p>
 
         <h2 className="text-xl font-semibold mt-6 mb-2">1. Upload Your Image</h2>
