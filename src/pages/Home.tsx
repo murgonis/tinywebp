@@ -169,7 +169,7 @@ function Home() {
             WebP Image Converter
           </h1>
           <p className="text-lg text-center text-gray-600 dark:text-gray-300">
-            Transform your images to WebP format for superior compression
+Pārveidojiet savas attēlus WebP formātā, lai nodrošinātu labāku saspiešanu
           </p>
         </div>
 
